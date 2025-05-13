@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="container mx-auto p-6">
-      <h1 className="text-3xl font-bold text-center mb-8">CGPA Calculator</h1>
+      <h1 className="text-3xl font-bold text-center mb-8">CGPA Calculator For CSE AI ML</h1>
       {Object.keys(subjectsData).map(sem=>{
         const { grades, skipped } = formData[sem];
         return (
