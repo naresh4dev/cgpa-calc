@@ -28,11 +28,6 @@ export const subjectsData = {
         credits: 3
       },
       {
-        code: 'GEA4131',
-        name: 'Engineering Immersion Lab',
-        credits: 0.5
-      },
-      {
         code: 'PHA4131 / CYA4131',
         name: 'Engineering Physics Lab / Materials Chemistry Lab',
         credits: 1
